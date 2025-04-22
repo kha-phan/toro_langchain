@@ -1,0 +1,5 @@
+langchain
+openai
+python-dotenv
+google-search-results
+numexpr
